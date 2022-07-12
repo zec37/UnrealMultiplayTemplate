@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Android_ASTC/Install_ThirdPersonMP-armv7.bat
+Android_ASTC/main.1.com.YourCompany.ThirdPersonMP.obb
+Android_ASTC/ThirdPersonMP-armv7.apk
+Android_ASTC/Uninstall_ThirdPersonMP-armv7.bat
+ClearBinariesANDApkObb.bat
+WindowsNoEditor/ThirdPersonMP/Content/Paks/ThirdPersonMP-WindowsNoEditor.pak
+WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
